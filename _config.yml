@@ -62,7 +62,7 @@ author:
   avatar : "/assets/images/Surya.jpeg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
-   - label: "Linkedin"
+    - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/surya-chaitanya-palepu/"
     - label: "GitHub"
